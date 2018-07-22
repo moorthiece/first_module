@@ -1,14 +1,15 @@
 {
   "name": "drupal/first_module",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "description": "My Awesome Module",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
-  "homepage": "https://www.drupal.org/project/first_module",
+  "homepage": "https://github.com/moorthiece/first_module.git",
   "minimum-stability": "dev",
   "support": {
     "issues": "https://www.drupal.org/project/issues/first_module",
-    "source": "http://cgit.drupalcode.org/first_module"
+    "source": "https://github.com/moorthiece/first_module.git"
   },
   "require": { }
 }
+
